@@ -9,4 +9,4 @@ The lesson walks through booleans, conditional statements, and operators. The [P
 Import the .sb2 file in this repository to Scratch website following these instructions: https://wiki.scratch.mit.edu/wiki/Exporting_and_Importing#Importing. You can also [access the code directly](https://scratch.mit.edu/projects/184623153/).
 
 ## Handout with definitions and instructions
-The [handout](FEMMES_Nov11_handout.pdf) defines the components of scratch and provides instructions to create a new if/else code block to change the ballerina's costume color. The answer is in the final slide of the instructional slides.
+The [handout](FEMMES_Nov11_handout.pdf) defines the components of scratch and provides instructions to create a new if/else code block to change the ballerina's costume color. A .docx file is provided as well. The answer is in the final slide of the instructional slides.
