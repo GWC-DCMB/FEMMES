@@ -4,6 +4,10 @@ Here you will find educational resources developed by Girls Who Code at the Univ
 
 Our activity is a revised version of Choreography with Code from Fall 2017. We have added a component using [Ozobot](https://ozobot.com).
 
+- Instructional Slides
+- [Access the code directly] (https://scratch.mit.edu/projects/201961603/)
+- Ozobot activity
+
 # FEMMES Capstone Fall 2017
 
 Our activity is entitled Choreography with Code and allows students to use if statements to control a ballerina in Scratch (https://scratch.mit.edu). Content developed by Stephanie Theide, Brooke Wolford, Rucheng Diao, Emily Roberts, Zena Lapp, Sarah Hanks, and Marlena Duda.
