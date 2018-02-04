@@ -1,4 +1,4 @@
-Here you will find educational resources developed by Girls Who Code at the University of Michigan Department of Computational Medicine and Bioinformatics for Females Excelling More in Math Engineering and Science [(FEMMES)](https://www.femmes.studentorgs.umich.edu) Capstones.
+Here you will find educational resources developed by Girls Who Code at the University of Michigan Department of Computational Medicine and Bioinformatics for Females Excelling More in Math Engineering and Science [(FEMMES)](https://www.femmes.studentorgs.umich.edu) Capstones. These materials are geared towards 4th-6th grade girls.
 
 # FEMMES Capstone Winter 2018
 
