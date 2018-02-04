@@ -5,7 +5,7 @@ Here you will find educational resources developed by Girls Who Code at the Univ
 Our activity is a revised version of Choreography with Code from Fall 2017. We have added a component using [Ozobot](https://ozobot.com).
 
 - Instructional Slides
-- [Access the code directly] (https://scratch.mit.edu/projects/201961603/)
+- [Access the Scratch code directly](https://scratch.mit.edu/projects/201961603/)
 - Ozobot activity
 
 # FEMMES Capstone Fall 2017
