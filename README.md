@@ -2,12 +2,14 @@ Here you will find educational resources developed by Girls Who Code at the Univ
 
 # FEMMES Capstone Winter 2018
 
-Our activity is a revised version of Choreography with Code from Fall 2017. We have added a component using [Ozobot](https://ozobot.com).
+Our activity is a revised version of Choreography with Code from Fall 2017. We have added a component using [Ozobot](https://ozobot.com) with content development by Marlena Duda, Zena Lapp, Alex Weber, and Brooke Wolford.
 
 - Instructional Slides
 - [Access the Scratch code directly](https://scratch.mit.edu/projects/201961603/)
 - Ozobot activity
-
+  * [Printable map](femmes_ozomap_2.pdf)
+  * Instructions: Navigate your dancing ozobot from the start to dance it out at the end! But be careful, avoid the dead end traps that would make your dancer stop performing! At the end, create your own chorgeographed dance by coding each of the four practiced moves (Tornado, Backwalk, Zigzag, Spin) in whatever order you want!
+  
 # FEMMES Capstone Fall 2017
 
 Our activity is entitled Choreography with Code and allows students to use if statements to control a ballerina in Scratch (https://scratch.mit.edu). Content developed by Stephanie Theide, Brooke Wolford, Rucheng Diao, Emily Roberts, Zena Lapp, Sarah Hanks, and Marlena Duda.
