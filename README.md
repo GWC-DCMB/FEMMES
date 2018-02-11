@@ -5,8 +5,8 @@ Here you will find educational resources developed by Girls Who Code at the Univ
 Our activity is a revised version of Choreography with Code from Fall 2017. We have added a component using [Ozobot](https://ozobot.com) with content development by Marlena Duda, Zena Lapp, Alex Weber, and Brooke Wolford.
 
 - Instructional Slides
- * [PDF](Choreography_with_Code_FEMMES_Feb_17_2018.pdf)
- * [PPT](Choreography_with_Code_FEMMES_Feb_17_2018.pptx)
+  * [PDF](Choreography_with_Code_FEMMES_Feb_17_2018.pdf)
+  * [PPT](Choreography_with_Code_FEMMES_Feb_17_2018.pptx)
 - [Access the Scratch code directly](https://scratch.mit.edu/projects/201961603/)
 - Ozobot activity
   * [Printable map](femmes_ozomap_2.pdf)
