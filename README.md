@@ -31,12 +31,12 @@ The [handout](FEMMES_Nov11_handout.pdf) defines the components of scratch and pr
 
 # Are you a middle schooler interseted in Girls Who Code?
 - GWC across the nation:
- * Visit https://girlswhocode.com/locations/
+  * Visit https://girlswhocode.com/locations/
 - GWC by University of Michigan Women in Science and Engineering:
- * Middle and high school students
- * Email Jamie Saville at jsaville@umich.edu
+  * Middle and high school students
+  * Email Jamie Saville at jsaville@umich.edu
 - GWC at University of Michigan Department of Computational Medicine and Bioinformatics:
- * High school students only
- * Email gwc.bioinfo-requests@umich.edu
- * Visit http://umich.edu/~girlswc/
+  * High school students only
+  * Email gwc.bioinfo-requests@umich.edu
+  * Visit http://umich.edu/~girlswc/
 
