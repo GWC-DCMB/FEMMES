@@ -12,9 +12,9 @@ Our activity is a revised version of Choreography with Code from Fall 2017. We h
   * [Access the Scratch code directly](https://scratch.mit.edu/projects/201961603/) 
   * [Handout](FEMMES_handout_Feb_2018.pdf) with instructions 
 - Ozobot activity
-  * [Printable map](femmes_ozomap_2.pdf)
+  * [Printable map]
   * [Reference codes](ozobot-ozocodes-reference.pdf)
-  * Instructions: Navigate your dancing ozobot so she can dance it out at the end! Hitting each dance move along the way will earn you one point. But be careful, avoid the dead end traps that would make your dancer stop performing! At the end, create your own chorgeographed dance by coding each of the four practiced moves (Tornado, Backwalk, Zigzag, Spin) in whatever order you want!
+  * Instructions
   
 # FEMMES Capstone Fall 2017
 
