@@ -29,7 +29,7 @@ Import the .sb2 file in this repository to Scratch website following these instr
 ## Handout with definitions and instructions
 The [handout](FEMMES_Nov11_handout.pdf) defines the components of scratch and provides instructions to create a new if/else code block to change the ballerina's costume color. A .docx file is provided as well. The answer is in the final slide of the instructional slides.
 
-# Are you a middle schooler interseted in Girls Who Code?
+# Are you a middle schooler interested in Girls Who Code?
 - GWC across the nation:
   * Visit https://girlswhocode.com/locations/
 - GWC by University of Michigan Women in Science and Engineering:
