@@ -12,9 +12,9 @@ Our activity is a revised version of Choreography with Code from Fall 2017. We h
   * [Access the Scratch code directly](https://scratch.mit.edu/projects/201961603/) 
   * [Handout](FEMMES_handout_Feb_2018.pdf) with instructions 
 - Ozobot activity
-  * [Printable map]
+  * [Printable map](femmes_ozobot_6.pdf)
   * [Reference codes](ozobot-ozocodes-reference.pdf)
-  * [Instructions](FEMMES/Dances with Ozobots Instructions.pdf)
+  * [Instructions](Dances with Ozobots Instructions.pdf)
   
 # FEMMES Capstone Fall 2017
 
