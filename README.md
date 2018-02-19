@@ -14,7 +14,7 @@ Our activity is a revised version of Choreography with Code from Fall 2017. We h
 - Ozobot activity
   * [Printable map]
   * [Reference codes](ozobot-ozocodes-reference.pdf)
-  * Instructions
+  * [Instructions](FEMMES/Dances with Ozobots Instructions.pdf)
   
 # FEMMES Capstone Fall 2017
 
