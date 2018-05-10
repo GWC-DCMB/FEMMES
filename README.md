@@ -60,7 +60,7 @@ We suggest Smarties, Skittles, and Fruit Lifesavers. On plain sugar cookies have
 
 ## Microscopy
 With even a low power microscope you can view cell parts on slides. We recommend this [kit](https://www.amazon.com/AmScope-PS25-Microscope-Biological-Education/dp/B0055DZ3EK/ref=sr_1_4?s=industrial&ie=UTF8&qid=1525977545&sr=1-4&keywords=amscope+slides). Have students draw what they see in their lab notebook.
-- [.pdf](Lab_Notebook_FEMMES_Capstone_Event)
+- [.pdf](Lab_Notebook_FEMMES_Capstone_Event.pdf)
 - [.docx](Lab_Notebook_FEMMES_Capstone_Event.docx)
 
 
