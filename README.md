@@ -42,7 +42,7 @@ The [handout](FEMMES_Nov11_handout.pdf) defines the components of scratch and pr
   
 # FEMMES Capstone Fall 2016 and Winter 2017
 
-Our Incredible, Edible Cell Activity was planned for FEMMES capstones before Girls Who Code was founded, and is purely biological in nature. Content developed by Haley Amemiya, Marlena Duda, Allie Bouza, Zena Lapp, and Brooke Wolford.
+Our Incredible, Edible Cell Activity was planned for FEMMES capstones before Girls Who Code was founded, and is purely biological in nature. Content developed by Haley Amemiya, Marlena Duda, Allie Bouza, Zena Lapp, and Brooke Wolford. After a 5 minute introduction to cells, we let the students view a variety of cells through the microscope and record their observations in their lab notebook. The final 20 minutes were spent making the Cookie Cell Model.
 
 Learn about the incredible, edible cell! What’s a cell you ask? Use a microscope and examine at the many types of cells that make up your body—neurons, kidney cells, lung cells, and more! Then make your own edible cell to learn about the important components of the cell such as the famous mitochondria, the power house of the cell! Why are cells so important? They have all the instructions to make you, you and they keep your body healthy and working properly.
 
@@ -56,12 +56,12 @@ Choose candy to represent:
 - The jelly (cytoplasm)
 - The energy makers (mitochondria)
 - The factory workers (ribosomes)
-With plain sugar cookies and fresh icing have students design their cell models.
+We suggest Smarties, Skittles, and Fruit Lifesavers. On plain sugar cookies have students spread icing on the cookie (cytoplasm) and place their candy as cellular components of their chosing. Explain to their neighbor what each candy type represents before eating.
 
-## Microscope 
-With even a low power microscope you can view cell parts on slides. We recommend this [kit](). Have students draw what they see in their lab notebook.
-- [.pdf](Lab_Notebook_FEMMES Capstone_Event)
-- [.docx](Lab_Notebook_FEMMES Capstone_Event.docx)
+## Microscopy
+With even a low power microscope you can view cell parts on slides. We recommend this [kit](https://www.amazon.com/AmScope-PS25-Microscope-Biological-Education/dp/B0055DZ3EK/ref=sr_1_4?s=industrial&ie=UTF8&qid=1525977545&sr=1-4&keywords=amscope+slides). Have students draw what they see in their lab notebook.
+- [.pdf](Lab_Notebook_FEMMES_Capstone_Event)
+- [.docx](Lab_Notebook_FEMMES_Capstone_Event.docx)
 
 
 
