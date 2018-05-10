@@ -46,5 +46,22 @@ Our Incredible, Edible Cell Activity was planned for FEMMES capstones before Gir
 
 Learn about the incredible, edible cell! What’s a cell you ask? Use a microscope and examine at the many types of cells that make up your body—neurons, kidney cells, lung cells, and more! Then make your own edible cell to learn about the important components of the cell such as the famous mitochondria, the power house of the cell! Why are cells so important? They have all the instructions to make you, you and they keep your body healthy and working properly.
 
+## Instructional Slides
+The [slide deck](Incredible_Edible_Cell.pptx) walks through 5 core components of the cell and some fluorscent light microscopy images of cells.
+
+## Cookie Cell Model
+Choose candy to represent:
+- The walls (cellular membrane)
+- The boss (nucleus)
+- The jelly (cytoplasm)
+- The energy makers (mitochondria)
+- The factory workers (ribosomes)
+With plain sugar cookies and fresh icing have students design their cell models.
+
+## Microscope 
+With even a low power microscope you can view cell parts on slides. We recommend this [kit](). Have students draw what they see in their lab notebook.
+- [.pdf](Lab_Notebook_FEMMES Capstone_Event)
+- [.docx](Lab_Notebook_FEMMES Capstone_Event.docx)
+
 
 
