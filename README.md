@@ -39,4 +39,9 @@ The [handout](FEMMES_Nov11_handout.pdf) defines the components of scratch and pr
   * High school students only
   * Email gwc.bioinfo-requests@umich.edu
   * Visit http://umich.edu/~girlswc/
+  
+# FEMMES Capstone Fall 2016 and Winter 2017
+Learn about the incredible, edible cell! What’s a cell you ask? Use a microscope and examine at the many types of cells that make up your body—neurons, kidney cells, lung cells, and more! Then make your own edible cell to learn about the important components of the cell such as the famous mitochondria, the power house of the cell! Why are cells so important? They have all the instructions to make you, you and they keep your body healthy and working properly.
+
+
 
