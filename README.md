@@ -1,3 +1,16 @@
+
+## Are you a middle schooler interested in Girls Who Code?
+- GWC across the nation:
+  * Visit https://girlswhocode.com/locations/
+- GWC by University of Michigan Women in Science and Engineering:
+  * Middle and high school students
+  * Email Jamie Saville at jsaville@umich.edu
+- GWC at University of Michigan Department of Computational Medicine and Bioinformatics:
+  * High school students only
+  * Email gwc.bioinfo-requests@umich.edu
+  * Visit http://umich.edu/~girlswc/
+  
+# FEMMES Capstone Lesson Plans
 Here you will find educational resources developed by Girls Who Code at the University of Michigan Department of Computational Medicine and Bioinformatics for Females Excelling More in Math Engineering and Science [(FEMMES)](https://www.femmes.studentorgs.umich.edu) Capstones. These materials are geared towards 4th-6th grade girls.
 
 # FEMMES Capstone Winter 2018
@@ -28,17 +41,6 @@ Import the .sb2 file in this repository to Scratch website following these instr
 
 ## Handout with definitions and instructions
 The [handout](FEMMES_Nov11_handout.pdf) defines the components of scratch and provides instructions to create a new if/else code block to change the ballerina's costume color. A .docx file is provided as well. The answer is in the final slide of the instructional slides.
-
-# Are you a middle schooler interested in Girls Who Code?
-- GWC across the nation:
-  * Visit https://girlswhocode.com/locations/
-- GWC by University of Michigan Women in Science and Engineering:
-  * Middle and high school students
-  * Email Jamie Saville at jsaville@umich.edu
-- GWC at University of Michigan Department of Computational Medicine and Bioinformatics:
-  * High school students only
-  * Email gwc.bioinfo-requests@umich.edu
-  * Visit http://umich.edu/~girlswc/
   
 # FEMMES Capstone Fall 2016 and Winter 2017
 
