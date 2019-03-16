@@ -15,7 +15,7 @@ Here you will find educational resources developed by Girls Who Code at the Univ
 
 ## FEMMES Capstone Fall 2018 and 2019
 
-Our [Binary Bots activity](../ozobotLessons/binary_numbers/README.md) uses Blocky Games and Ozobots to teach conditional statements (if, else if, else) and base2 to base10 conversion. Content development by Zena Lapp and Marlena Duda.
+Our [Binary Bots activity](https://github.com/GWC-DCMB/ozobotLessons/blob/master/binary_numbers/README.md) uses Blocky Games and Ozobots to teach conditional statements (if, else if, else) and base2 to base10 conversion. Content development by Zena Lapp and Marlena Duda.
 
 ## FEMMES Capstone Winter 2018
 
