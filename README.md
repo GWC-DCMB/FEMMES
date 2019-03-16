@@ -13,12 +13,9 @@
 # FEMMES Capstone Lesson Plans
 Here you will find educational resources developed by Girls Who Code at the University of Michigan Department of Computational Medicine and Bioinformatics for Females Excelling More in Math Engineering and Science [(FEMMES)](https://www.femmes.studentorgs.umich.edu) Capstones. These materials are geared towards 4th-6th grade girls.
 
-# FEMMES Capstone Winter 2019
-
-
 # FEMMES Capstone Fall 2018 and 2019
 
-Our [Binary Bots activity](ozobotLessons/binary_numbers/README.md) uses Blocky Games and Ozobots to teach conditional statements (if, else if, else) and base2 to base10 conversion. 
+Our [Binary Bots activity](ozobotLessons/binary_numbers/README.md) uses Blocky Games and Ozobots to teach conditional statements (if, else if, else) and base2 to base10 conversion. Content development by Zena Lapp and Marlena Duda.
 
 # FEMMES Capstone Winter 2018
 
